@@ -24,6 +24,7 @@ screen.onkey(snake.right, "Right")
 screen.onkey(snake.left, "Left")
 
 game_over = False
+
 while not game_over:
     screen.update()
     time.sleep(0.1)
