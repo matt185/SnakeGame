@@ -1,7 +1,5 @@
 # SnakeGame
 
-# Turtle Invaders
-
 Remake of the famous Snake game.
 
 <p align="center">
